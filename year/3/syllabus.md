@@ -1,143 +1,390 @@
-ঠিক আছে 🙂
-এবার আমি আপনাকে **Age 3** (Level 1) বইয়ের সম্পূর্ণ পরিকল্পনা তৈরি করে দিচ্ছি —
-এখানে থাকবে:
+# Age 3 — Foundation Level 2
 
-1. **বইয়ের সামগ্রিক গঠন** (কোন কোন অধ্যায় থাকবে)
-2. **সিলেবাস + সূচিপত্র** (মাসভিত্তিক ১২ মাসের প্ল্যান)
-3. **প্রতিটি লেসনের ডিজাইন** (কিভাবে সাজানো হবে)
+## Complete Book List + Syllabus Framework
 
-এগুলো এমনভাবে তৈরি করবো যাতে আপনার **Age 2 → Age 3** লেভেলে স্বাভাবিক প্রগ্রেস হয় এবং বইগুলো ধারাবাহিকভাবে ব্যবহারযোগ্য হয়।
+এই বয়সে শিশুর:
 
----
+* ভাষা দ্রুত develop হয়
+* curiosity বাড়ে
+* প্রশ্ন বেশি করে
+* memory improve হয়
+* observation power বাড়ে
 
-# **AGE 3 BOOK (LEVEL 1) — সম্পূর্ণ পরিকল্পনা**
+তাই এই Level এ:
 
-বইয়ের নাম: **“প্রথম পাঠশালা — লেভেল ১ (Age 3)”**
-লক্ষ্য: **আরবি বর্ণ/শব্দ চেনা**, ছোট সুরা মুখস্থ, বাংলা ও ইংরেজি অক্ষর লেখা শুরু, ১–১০ সংখ্যা শেখা, লজিক্যাল চিন্তা শুরু, নৈতিক ও সামাজিক শিক্ষা।
-বইয়ের আকার: **প্রায় ২০০–২৫০ পৃষ্ঠা** (প্রিন্টেবল পিডিএফ)
+* Fun Learning
+* Speaking
+* Habit Building
+* Early Reading
+* Brain Development
 
----
-
-## **১. বইয়ের অধ্যায় বিন্যাস**
-
-| অধ্যায়        | বিষয়                        | লক্ষ্য                                        |
-| ------------- | --------------------------- | --------------------------------------------- |
-| **অধ্যায় ১**  | অভিভাবক গাইড                | কীভাবে শেখাবেন, দৈনিক রুটিন                   |
-| **অধ্যায় ২**  | আরবি শিক্ষা                 | বর্ণ + শব্দ + ১০টি সাধারণ আরবি শব্দ           |
-| **অধ্যায় ৩**  | কুরআন শিক্ষা                | ছোট সুরা (ইখলাস, নাস, ফালাক, কাফিরুন, কাওসার) |
-| **অধ্যায় ৪**  | বাংলা ভাষা                  | অক্ষর লেখা (ক-ঔ), ১০টি সহজ শব্দ               |
-| **অধ্যায় ৫**  | ইংরেজি ভাষা                 | A–Z লেখা, ২০টি সহজ শব্দ, উচ্চারণ অনুশীলন      |
-| **অধ্যায় ৬**  | গণিত শিক্ষা                 | ১–১০ লেখা, আকার/রঙ/মিলানো                     |
-| **অধ্যায় ৭**  | প্রোগ্রামিং লজিক            | প্যাটার্ন, সিকোয়েন্স, সহজ অ্যালগরিদম          |
-| **অধ্যায় ৮**  | খেলাধুলা ও সৃজনশীলতা        | আউটডোর/ইনডোর গেম, হাতের কাজ                   |
-| **অধ্যায় ৯**  | চরিত্র ও নৈতিক শিক্ষা       | রাসূল ﷺ এর আদর্শ থেকে গল্প                    |
-| **অধ্যায় ১০** | মাসিক মূল্যায়ন + পোর্টফোলিও | চেকলিস্ট, অভিভাবকের মন্তব্য                   |
+—এগুলোতে focus করতে হবে।
 
 ---
 
-## **২. মাসভিত্তিক সিলেবাস + সূচিপত্র**
+# Foundation Level 2 Goals
 
-### **Yearly Overview (১২ মাস)**
+এই Level শেষে শিশু:
 
-* প্রতি মাসে ৪ সপ্তাহ
-* সপ্তাহে ৫ দিন ক্লাস (২০–৩০ মিনিট)
-* মাস শেষে ছোট কুইজ + ৬ মাসে মধ্যবর্তী রিভিউ + বছর শেষে ইয়ারলি পরীক্ষা
-
-| মাস        | আরবি শিক্ষা          | কুরআন                   | বাংলা + ইংরেজি | গণিত + প্রোগ্রামিং | নৈতিক শিক্ষা + গেম   |
-| ---------- | -------------------- | ----------------------- | -------------- | ------------------ | -------------------- |
-| জানুয়ারি   | আলিফ-থা লেখা         | বিসমিল্লাহ + সূরা ইখলাস | ক–গ, A–C       | ১,২,৩              | সালাম শেখা           |
-| ফেব্রুয়ারি | জিম–জা               | সূরা নাস                | ঘ–ছ, D–F       | ৪,৫                | খেলনা ভাগাভাগি       |
-| মার্চ      | সীন–শিন              | সূরা ফালাক              | জ–ট, G–H       | ৬,৭                | মিথ্যা না বলা        |
-| এপ্রিল     | সাদ–দাদ              | সূরা কাফিরুন            | ঠ–ড, I–J       | ৮,৯                | বন্ধুদের নাম শেখা    |
-| মে         | তা–জা                | সূরা কাওসার             | ঢ–ণ, K–L       | ১০                 | প্রকৃতি পরিচয়        |
-| জুন        | ৫টি সাধারণ শব্দ      | দোয়া শেখা               | ত–ন, M–N       | ১–৫ পুনরাবৃত্তি    | হাসিখুশি থাকা        |
-| জুলাই      | আরবি স্বরচিহ্ন       | সূরা লাহাব              | প–ফ, O–P       | তুলনা বড়/ছোট       | ধন্যবাদ বলা          |
-| আগস্ট      | নতুন শব্দভান্ডার     | সূরা ফাতিহা             | ব–ম, Q–R       | মিলানো গেম         | পরিস্কার-পরিচ্ছন্নতা |
-| সেপ্টেম্বর | মিলানো অনুশীলন       | সূরা নাসর               | য–র, S–T       | প্যাটার্ন সাজানো   | দয়া করা শেখা         |
-| অক্টোবর    | কোরআন টিলাওয়াত      | সব সুরা রিভিউ           | ল–শ, U–V       | সিকোয়েন্সিং গেম    | দায়িত্ব পালন         |
-| নভেম্বর    | আরবি লেখা প্র্যাকটিস | মিনি টেস্ট              | ষ–হ, W–X       | ১–১০ রিভিউ         | পরিবার পরিচয়         |
-| ডিসেম্বর   | পুনরাবৃত্তি মাস      | ইয়ারলি এক্সাম           | সব রিভিউ       | সবকিছু রিভিউ       | গল্প প্রজেক্ট        |
+* বাংলা ও English basic words চিনবে
+* ১–২০ counting পারবে
+* basic sentence বলতে পারবে
+* ছোট dua/সূরা শিখবে
+* shapes/colors চিনবে
+* simple instruction follow করবে
+* social behavior develop করবে
 
 ---
 
-## **৩. প্রতিটি লেসনের স্ট্রাকচার (ফাইনাল ফরম্যাট)**
+# Complete Book List (Age 3)
 
-প্রতিটি লেসন **২–৩ পৃষ্ঠা** →
-
-* প্রথম পৃষ্ঠা → শেখানোর কনটেন্ট
-* দ্বিতীয় পৃষ্ঠা → ওয়ার্কশিট
-* তৃতীয় পৃষ্ঠা (যদি লাগে) → প্যারেন্ট গাইড
-
----
-
-### **লেসন ফরম্যাট (Age 3)**
-
-#### **Lesson 1 — আলিফ লেখা শেখা**
-
-**লক্ষ্য:** শিশুটি ‘আলিফ’ চিনবে, লিখবে, ১টি আরবি শব্দ জানবে।
-**সময়:** ২০ মিনিট
-
----
-
-### **Step 1 — Introduction (3 মিনিট)**
-
-* বোর্ড/কাগজে আলিফ লিখুন
-* বলুন: “এটা আলিফ, বলো আলিফ”
+| No | Book Name                    | Purpose           |
+| -- | ---------------------------- | ----------------- |
+| 1  | Bangla Beginner Book         | বাংলা reading     |
+| 2  | English Phonics Book         | sound learning    |
+| 3  | Early Math Book              | counting + logic  |
+| 4  | Color & Shape Advanced Book  | recognition       |
+| 5  | Islamic Kids Book            | আদব + ইসলাম       |
+| 6  | My Dua & Surah Book          | dua + short surah |
+| 7  | Speaking & Conversation Book | communication     |
+| 8  | Writing Practice Book        | pencil control    |
+| 9  | Brain Activity Book          | IQ development    |
+| 10 | Story & Moral Book           | imagination       |
+| 11 | Science Discovery Book       | nature curiosity  |
+| 12 | Creative Art Book            | creativity        |
+| 13 | Physical Activity Guide      | motor skill       |
+| 14 | Parent Teaching Manual       | teaching system   |
 
 ---
 
-### **Step 2 — Visual Activity (5 মিনিট)**
+# ১. Bangla Beginner Book
 
-* আলিফ-এর সাথে আমের ছবি দেখান
-* বলুন: “আলিফ দিয়ে আম”
+## Topics
 
----
+* স্বরবর্ণ
+* ব্যঞ্জনবর্ণ
+* সহজ শব্দ
+* picture reading
 
-### **Step 3 — Handwriting Practice (5 মিনিট)**
+## Example
 
-* ডটেড আলিফ-শীট দিন
-* শিশুকে আঙুল দিয়ে ট্রেস করতে দিন
-* পেন্সিল দিয়ে ৩ বার লিখতে বলুন
+* মা
+* বাবা
+* কলা
+* আম
 
----
+## Activities
 
-### **Step 4 — ছোট খেলা (3 মিনিট)**
-
-* কার্ডে বর্ণ মেলানো গেম
-* আলিফ কার্ড দেখিয়ে বলতে বলুন
-
----
-
-### **Step 5 — ওয়ার্কশিট**
-
-1. আলিফ আকৃতি ট্রেস করো ✍️
-2. আলিফ = আম ছবিতে রং করো 🎨
+* picture matching
+* sound repeat
+* word tracing
 
 ---
 
-### **Step 6 — প্যারেন্ট চেকলিস্ট**
+# ২. English Phonics Book
 
-* শিশুটি আলিফ চিনলো? ✅
-* লিখতে পারলো? ✅
-* উদাহরণ শব্দ মনে রাখলো? ✅
+## Topics
+
+* phonics sound
+* simple words
+* alphabet recognition
+
+## Example
+
+* cat
+* bat
+* sun
+* dog
+
+## Speaking Practice
+
+* What is this?
+* This is a cat.
 
 ---
 
-## **৪. বিশেষ বৈশিষ্ট্য (Age 3 বই)**
+# ৩. Early Math Book
 
-* প্রতিটি লেসনে **রঙিন ইলাস্ট্রেশন**
-* মাস শেষে **মিনি এক্সাম**
-* বছর শেষে **ইয়ারলি টেস্ট**
-* প্রোগ্রামিং অংশে **Unplugged Games** (লেগো/ব্লক প্যাটার্ন, সাজানো, সিকোয়েন্সিং)
-* চরিত্রশিক্ষা গল্পভিত্তিক
-* প্রতিটি মাস শেষে **প্রগ্রেস রিপোর্ট চার্ট**
+## Topics
+
+* ১–২০
+* counting objects
+* matching
+* bigger/smaller
+* simple patterns
+
+## Advanced Intro
+
+* simple addition concept
+
+Example:
+🍎 + 🍎 = 2 apples
 
 ---
 
-আপনি চাইলে আমি এখনই **Age 3 বইয়ের পূর্ণ সূচিপত্র + জানুয়ারির সম্পূর্ণ লেসন + ২০টি প্রিন্টেবল ওয়ার্কশিট** তৈরি করে দিতে পারি।
-তাহলে হাতে থাকবে **প্রথম ৪০–৫০ পৃষ্ঠার ড্রাফট বই**।
+# ৪. Color & Shape Advanced Book
 
-আপনি কি চান আমি প্রথমে **Age 3 (Level 1)** বইয়ের **পূর্ণ সূচিপত্র + প্রথম মাসের ৪ সপ্তাহের লেসন + ওয়ার্কশিট** তৈরি করে দিই?
-বললেই আমি শুরু করি।
+## Colors
 
-আপনার কী তাই চান?
+* red
+* green
+* blue
+* black
+* white
+
+## Shapes
+
+* star
+* oval
+* rectangle
+* heart
+
+## Activities
+
+* shape hunt
+* color sorting
+
+---
+
+# ৫. Islamic Kids Book
+
+## Topics
+
+* সালাম
+* বিসমিল্লাহ
+* আল্লাহ আমাদের সৃষ্টি করেছেন
+* মিথ্যা না বলা
+* parents respect
+* sharing
+
+## Include
+
+* Islamic stories
+* Prophet ﷺ manners
+
+---
+
+# ৬. My Dua & Surah Book
+
+## Dua
+
+* eating dua
+* sleeping dua
+* entering home dua
+
+## Surah
+
+* সূরা ফাতিহা
+* ইখলাস
+* ফালাক
+* নাস
+
+## Structure
+
+* Arabic
+* pronunciation
+* meaning
+* illustration
+
+---
+
+# ৭. Speaking & Conversation Book
+
+## Goal
+
+Confidence building।
+
+## Practice
+
+* তোমার নাম কী?
+* তুমি কী খেতে পছন্দ করো?
+* What color is this?
+* How are you?
+
+---
+
+# ৮. Writing Practice Book
+
+## Activities
+
+* line tracing
+* alphabet tracing
+* shape tracing
+* curve practice
+
+## Goal
+
+Fine motor skill।
+
+---
+
+# ৯. Brain Activity Book
+
+## Include
+
+* puzzle
+* matching
+* shadow game
+* memory game
+* find differences
+
+---
+
+# ১০. Story & Moral Book
+
+## Story Types
+
+* Islamic
+* animal stories
+* honesty stories
+* kindness stories
+
+## Goal
+
+* listening skill
+* imagination
+* behavior development
+
+---
+
+# ১১. Science Discovery Book
+
+## Topics
+
+* plants
+* rain
+* sun
+* moon
+* birds
+* water
+
+## Method
+
+Observation-based learning।
+
+---
+
+# ১২. Creative Art Book
+
+## Include
+
+* coloring
+* paper craft
+* finger painting
+* clay modeling
+
+---
+
+# ১৩. Physical Activity Guide
+
+## Activities
+
+* jumping
+* running
+* balance walk
+* catching ball
+
+---
+
+# ১৪. Parent Teaching Manual
+
+## থাকবে
+
+* daily routine
+* teaching method
+* screen rule
+* discipline guide
+* emotional support
+
+---
+
+# Daily Routine (Age 3)
+
+| Time          | Activity          |
+| ------------- | ----------------- |
+| Morning       | Quran + Dua       |
+| Morning Study | Bangla/English    |
+| Noon          | Play              |
+| Afternoon     | Math + Activity   |
+| Evening       | Story             |
+| Night         | Family talk + Dua |
+
+---
+
+# Weekly Structure
+
+| Day | Subject           |
+| --- | ----------------- |
+| Sat | Bangla            |
+| Sun | English           |
+| Mon | Math              |
+| Tue | Islamic           |
+| Wed | Science           |
+| Thu | Activity          |
+| Fri | Revision + Family |
+
+---
+
+# Study Duration
+
+| Age   | Total Study |
+| ----- | ----------- |
+| ৩ বছর | ১–১.৫ ঘণ্টা |
+
+(ভাগ করে)
+
+---
+
+# Teaching Style
+
+| Method            | Importance |
+| ----------------- | ---------- |
+| Play-Based        | VERY HIGH  |
+| Story Learning    | VERY HIGH  |
+| Visual Learning   | VERY HIGH  |
+| Hands-on Activity | VERY HIGH  |
+
+---
+
+# Important Rules
+
+## Avoid
+
+* pressure
+* punishment
+* comparison
+* long sitting
+
+## Focus
+
+* curiosity
+* confidence
+* happiness
+* communication
+
+---
+
+# Optional Advanced Additions
+
+আপনি চাইলে এই বয়স থেকেই add করতে পারেন:
+
+* Montessori method
+* Arabic letters
+* memory training
+* phonics mastery
+* nature journaling
+* beginner coding logic games
+* emotional intelligence activities
+
+---
+
+আপনি চাইলে এখন আমি:
+
+* ৪ বছর বয়সের Beginner Level
+* Full yearly syllabus
+* Chapter-wise book structure
+* Printable worksheet system
+* Montessori activity system
+* Islamic tarbiyah roadmap
+
+একদম complete professional framework আকারে তৈরি করে দিতে পারি।

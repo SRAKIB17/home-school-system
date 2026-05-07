@@ -1,168 +1,391 @@
-ঠিক আছে 🙂 এখন আমি আপনাকে **Age 3 (৩ বছর)** এর জন্য পুরো এক বছরের **সম্পূর্ণ সিলেবাস + বইয়ের কাঠামো + লেসন প্ল্যান** বানিয়ে দেব।
-এটি হবে **Level 1** বই, যেখানে প্রতিসপ্তাহ শেখার বিষয়, কার্যকলাপ, ওয়ার্কশীটের ধারণা এবং প্যারেন্ট টিপস থাকবে।
-পুরোটা সহজ ভাষায় এবং প্রিন্টেবল ফরম্যাটে তৈরি করব।
+# Age 4 — Beginner Level
+
+## Complete Education Framework (Foundation to Early Academic Stage)
+
+এই বয়সে শিশুর:
+
+* শেখার গতি অনেক বেড়ে যায়
+* প্রশ্ন করার প্রবণতা বাড়ে
+* imagination শক্তিশালী হয়
+* basic reading শুরু হয়
+* logic develop হতে থাকে
+
+তাই এই Stage এ:
+
+* Fun + Structured Learning
+* Early Reading
+* Early Writing
+* Communication
+* Islamic Character
+* Thinking Skill
+
+—এগুলোতে focus করতে হবে।
 
 ---
 
-## 📘 **Age 3 — Level 1 বই**
+# Beginner Level Goals (Age 4)
 
-**বইয়ের নাম (প্রস্তাব):**
-*“আমার প্রথম শেখা: বর্ণ, সংখ্যা, কুরআন ও খেলা”*
+এই Level শেষে শিশু:
 
-**সময়কাল:** ৩৬ সপ্তাহ (প্রতি সপ্তাহে ৩–৪ দিন × ২০ মিনিট)
-
-### 🎯 **শেখার মূল লক্ষ্য (Learning Objectives)**
-
-৩ বছর বয়সে শিশুর জন্য মোট ৮টি মূল লক্ষ্য থাকবে:
-
-1. **বাংলা অক্ষর** (ক-ঙ) চিনতে পারা ও উচ্চারণ।
-2. **ইংরেজি বর্ণ** (A–F) পরিচয় ও উচ্চারণ।
-3. **সংখ্যা** ১ থেকে ২০ পর্যন্ত চিনে বলা।
-4. **সহজ শব্দভাণ্ডার** (বাংলা + ইংলিশ) ৫০+ শব্দ।
-5. **কুরআন শিক্ষা**: ৩–৪টি ছোট সূরা শুনে অনুকরণ + ৫টি ছোট দোয়া।
-6. **আরবি বর্ণমালা** পরিচয় (আলিফ থেকে থা পর্যন্ত ৬ অক্ষর)।
-7. **মোটর স্কিল উন্নয়ন** — কাটাকাটি, রঙ করা, লাইন টানা, স্টিকার পেস্টিং।
-8. **নৈতিক শিক্ষা** — “ধন্যবাদ”, “মাফ করবেন”, “সালাম” বলা শেখানো।
+* বাংলা ও English basic reading পারবে
+* ছোট sentence বুঝবে
+* ১–৫০ counting পারবে
+* basic addition বুঝবে
+* ছোট সূরা পড়বে
+* social behavior improve হবে
+* confidence develop হবে
 
 ---
 
-## 📒 **বইয়ের কাঠামো (Table of Contents)**
+# Complete Book List (Age 4)
 
-**১. প্যারেন্ট গাইড**
-
-* প্রতিদিন কত মিনিট শিখাবেন
-* কীভাবে শেখাবেন
-* কীভাবে মূল্যায়ন করবেন
-
-**২. ৩৬-সপ্তাহের সিলেবাস**
-
-* প্রতিটি সপ্তাহের বিষয়, কার্যকলাপ, ওয়ার্কশীট আইডিয়া
-
-**৩. বিষয়ভিত্তিক কনটেন্ট**
-
-* বাংলা বর্ণমালা
-* ইংলিশ বর্ণমালা
-* সংখ্যা
-* কুরআন + দোয়া
-* মোটর স্কিল
-* খেলাধুলা
-* নৈতিক গল্প
-
-**৪. ওয়ার্কশীট সংগ্রহ**
-
-* রঙ করা, মিল খুঁজে বের করা, স্টিকার পেস্টিং, কাটাকাটি প্র্যাকটিস
-
-**৫. মাসিক প্রগ্রেস রিপোর্ট**
-
-* ✓ / ✗ দিয়ে রেকর্ড
-
-**৬. বার্ষিক মূল্যায়ন**
-
-* ওরাল, প্র্যাকটিক্যাল ও কুরআন ভিত্তিক টেস্ট
+| No | Book Name                      | Purpose             |
+| -- | ------------------------------ | ------------------- |
+| 1  | Bangla Reading Book 1          | বাংলা পড়া           |
+| 2  | English Reading & Phonics Book | English reading     |
+| 3  | Beginner Math Book             | math foundation     |
+| 4  | Writing & Handwriting Book     | writing skill       |
+| 5  | Islamic Learning Book          | Islamic manners     |
+| 6  | Quran & Surah Book             | Quran learning      |
+| 7  | Speaking & Communication Book  | speaking confidence |
+| 8  | Science Explorer Book          | curiosity           |
+| 9  | Logic & Brain Book             | IQ development      |
+| 10 | Creative Art & Craft Book      | creativity          |
+| 11 | Social Skill Book              | behavior            |
+| 12 | Physical Development Guide     | body skill          |
+| 13 | Nature & Environment Book      | observation         |
+| 14 | Parent Teaching System         | teaching guide      |
 
 ---
 
-## 📅 **৩৬ সপ্তাহের পূর্ণ সিলেবাস (Age 3)**
+# ১. Bangla Reading Book 1
 
-### **পর্ব ১ — বাংলা, ইংলিশ, সংখ্যা ভিত্তি (Week 1–12)**
+## Topics
 
-| সপ্তাহ | মূল ফোকাস   | শিখন বিষয়               | কার্যকলাপ                | ওয়ার্কশীট আইডিয়া   |
-| ------ | ----------- | ----------------------- | ------------------------ | ------------------ |
-| 1      | রং ও আকার   | লাল, নীল, সবুজ + Circle | লাল খেলনা খুঁজে আনা      | লাল রঙ করো         |
-| 2      | বাংলা অক্ষর | ক                       | “ক” দিয়ে কাক, ছবি দেখানো | ক লেখা অনুশীলন     |
-| 3      | ইংলিশ       | A                       | “A for Apple”            | অ্যাপেলের ছবি রঙ   |
-| 4      | সংখ্যা      | ১–২                     | ১টি আপেল, ২টি বল গোনা    | সংখ্যা ১–২ মিলাও   |
-| 5      | রং ও আকার   | হলুদ, Square            | হলুদ কাপ খোঁজা           | হলুদ রঙ করো        |
-| 6      | বাংলা অক্ষর | খ                       | “খ” দিয়ে খরগোশ           | খ লেখা অনুশীলন     |
-| 7      | ইংলিশ       | B                       | “B for Ball”             | বল ছবি রঙ          |
-| 8      | সংখ্যা      | ৩–৪                     | ৩টি পাতা, ৪টি কলম গোনা   | সংখ্যা ৩–৪ মিলাও   |
-| 9      | কুরআন       | সূরা ইখলাস              | শুনে অনুকরণ              | সূরা কার্ড প্রিন্ট |
-| 10     | আরবি        | আলিফ, বা                | বর্ণ কার্ড ব্যবহার       | আলিফ রঙ করো        |
-| 11     | মোটর স্কিল  | লাইন টানা               | পেন্সিল ধরে প্র্যাকটিস   | ট্রেসিং ওয়ার্কশীট  |
-| 12     | নৈতিকতা     | সালাম বলা               | রোল-প্লে গেম             | “সালাম” ছবি কার্ড  |
+* সব বর্ণ revision
+* ২–৩ অক্ষরের শব্দ
+* ছোট বাক্য
+* picture reading
 
----
+## Example
 
-### **পর্ব ২ — ভাষা, কুরআন, সংখ্যা (Week 13–24)**
+* আমি যাই।
+* মা আসে।
+* এটা আম।
 
-| সপ্তাহ | মূল ফোকাস  | শিখন বিষয়       | কার্যকলাপ               | ওয়ার্কশীট আইডিয়া     |
-| ------ | ---------- | --------------- | ----------------------- | -------------------- |
-| 13     | বাংলা      | গ               | “গ” দিয়ে গাছ            | গ লেখা অনুশীলন       |
-| 14     | ইংলিশ      | C               | “C for Cat”             | Cat রঙ               |
-| 15     | সংখ্যা     | ৫–৬             | ৫টি বই, ৬টি কাপ গোনা    | সংখ্যা ৫–৬ মিলাও     |
-| 16     | রং         | সাদা, কালো      | সাদা কাপড়, কালো পাথর    | রঙ করো               |
-| 17     | কুরআন      | সূরা ফালাক      | শুনে অনুকরণ             | সূরা কার্ড           |
-| 18     | আরবি       | তা, থা          | বর্ণ কার্ড              | ট্রেসিং শিট          |
-| 19     | মোটর স্কিল | স্টিকার পেস্টিং | মিল খুঁজে স্টিকার বসানো | স্টিকার অ্যাক্টিভিটি |
-| 20     | নৈতিকতা    | ধন্যবাদ বলা     | গেমে অভিনয়              | ছবি কার্ড            |
-| 21     | ইংলিশ      | D               | “D for Dog”             | Dog ছবি রঙ           |
-| 22     | সংখ্যা     | ৭–৮             | ৭টি ফুল, ৮টি পাতা       | সংখ্যা ৭–৮ মিলাও     |
-| 23     | বাংলা      | ঘ               | “ঘ” দিয়ে ঘর             | ঘ লেখা অনুশীলন       |
-| 24     | কুরআন      | সূরা নাস        | শুনে অনুকরণ             | সূরা কার্ড           |
+## Activities
+
+* reading aloud
+* picture storytelling
+* word matching
 
 ---
 
-### **পর্ব ৩ — অ্যাডভান্স লার্নিং (Week 25–36)**
+# ২. English Reading & Phonics Book
 
-| সপ্তাহ | মূল ফোকাস       | শিখন বিষয়              | কার্যকলাপ                  | ওয়ার্কশীট আইডিয়া   |
-| ------ | --------------- | ---------------------- | -------------------------- | ------------------ |
-| 25     | ইংলিশ           | E                      | “E for Egg”                | Egg ছবি রঙ         |
-| 26     | সংখ্যা          | ৯–১০                   | ৯টি চামচ, ১০টি কাগজ        | সংখ্যা মিলাও       |
-| 27     | বাংলা           | ঙ                      | “ঙ” দিয়ে ঙিনা              | ঙ লেখা অনুশীলন     |
-| 28     | মোটর স্কিল      | কাটাকাটি প্র্যাকটিস    | নিরাপদ কাঁচি দিয়ে ছবি কাটো | কাটাকাটি ওয়ার্কশীট |
-| 29     | নৈতিকতা         | “মাফ করবেন” শেখা       | রোল প্লে                   | ছবি কার্ড          |
-| 30     | কুরআন           | সূরা কাফিরুন           | শুনে অনুকরণ                | সূরা কার্ড         |
-| 31     | আরবি            | জিম, হা                | বর্ণ কার্ড                 | ট্রেসিং শিট        |
-| 32     | ইংলিশ           | F                      | “F for Fish”               | Fish ছবি রঙ        |
-| 33     | সংখ্যা          | ১১–১৫                  | ফল গোনা                    | সংখ্যা মিলাও       |
-| 34     | গল্প            | নৈতিক গল্প             | কাহিনী বলা                 | গল্প কার্ড         |
-| 35     | রিভিউ           | সব মিশ্র প্র্যাকটিস    | গেম ও কুইজ                 | রঙ করা/মিলানো      |
-| 36     | বার্ষিক পরীক্ষা | মৌখিক ও প্র্যাকটিক্যাল | সব শিখা যাচাই              | টেস্ট শিট          |
+## Topics
 
----
+* phonics mastery
+* CVC words
+* basic sentence
 
-## 🧩 **উদাহরণ লেসন প্ল্যান (Week 3: ইংলিশ A)**
+## Example
 
-**শিরোনাম:** “A for Apple”
-**সময়:** ১৫ মিনিট
-**উদ্দেশ্য:** ইংলিশ বর্ণ “A” চিনতে পারা, অ্যাপেল শব্দ বলা।
+* cat
+* bat
+* sun
+* I am happy.
+* This is a ball.
 
-**স্টেপস:**
+## Include
 
-1. বর্ণ কার্ড দেখানো: “This is A” (১ মিনিট)
-2. গান/রাইম: “A for Apple, A for Ant” (৩০ সেকেন্ড)
-3. অ্যাপেল ছবি দেখানো ও খাওয়ানো (৩ মিনিট)
-4. রঙের কাজ: অ্যাপেলের ছবি রঙ করা (৩ মিনিট)
-5. হোম-টাস্ক: ঘরে একটি Apple দেখিয়ে নাম বলতে হবে।
+* listening practice
+* pronunciation guide
 
 ---
 
-## 📑 **বার্ষিক পরীক্ষা কাঠামো**
+# ৩. Beginner Math Book
 
-* **ওরাল পরীক্ষা (৪০%)**
+## Topics
 
-  * ১০টি বর্ণ বলা (বাংলা/ইংলিশ)
-  * সংখ্যা ১–২০ বলা
-* **কুরআন/আরবি (৩০%)**
+* ১–৫০
+* counting
+* addition concept
+* subtraction intro
+* pattern
+* shapes
 
-  * সূরা অনুকরণ
-  * ৫টি দোয়া
-* **প্র্যাকটিক্যাল (২০%)**
+## Example
 
-  * ছবি মিলানো
-  * কাটাকাটি/রঙ প্র্যাকটিস
-* **নৈতিকতা (১০%)**
-
-  * সালাম বলা, ধন্যবাদ বলা
+🍎🍎 + 🍎 = 3 apples
 
 ---
 
-আপনি চাইলে আমি **Age 3 বইয়ের** জন্য
+# ৪. Writing & Handwriting Book
 
-1. **প্রথম ৮ সপ্তাহের পূর্ণ লেসন প্ল্যান** + ওয়ার্কশীট তৈরি করতে পারি,
-   অথবা
-2. **সম্পূর্ণ ৩৬ সপ্তাহের বইয়ের কনটেন্ট** (পেজ বাই পেজ) তৈরি করতে পারি, প্রিন্টেবল PDF ফরম্যাটে।
+## Include
 
-আপনার জন্য কোনটা আগে দরকার?
-যদি বলেন, আমি প্রথমেই **প্রথম ৮ সপ্তাহ** ডিটেইল করে বানিয়ে দেব।
-আপনি কি চান আমি সেটাই শুরু করি?
+* Bangla tracing
+* English tracing
+* word writing
+* shape writing
+
+## Goal
+
+Clean handwriting + hand control।
+
+---
+
+# ৫. Islamic Learning Book
+
+## Topics
+
+* Islamic manners
+* parents respect
+* honesty
+* kindness
+* sharing
+* cleanliness
+
+## Include
+
+* Prophet Muhammad ﷺ character stories
+
+---
+
+# ৬. Quran & Surah Book
+
+## Learning
+
+* Arabic letters revision
+* short surah
+* simple tajweed intro
+
+## Surah
+
+* Fatiha
+* Ikhlas
+* Falak
+* Nas
+* Kawthar
+
+## Include
+
+* meaning
+* daily application
+
+---
+
+# ৭. Speaking & Communication Book
+
+## Practice
+
+* introducing self
+* daily conversation
+* asking questions
+* polite speaking
+
+## Example
+
+* My name is...
+* I like apples.
+* May I help you?
+
+---
+
+# ৮. Science Explorer Book
+
+## Topics
+
+* plants
+* animals
+* weather
+* day/night
+* water
+* human body intro
+
+## Activities
+
+* observation
+* mini experiments
+
+---
+
+# ৯. Logic & Brain Book
+
+## Include
+
+* puzzles
+* sequencing
+* matching
+* memory challenge
+* problem solving
+
+---
+
+# ১০. Creative Art & Craft Book
+
+## Activities
+
+* drawing
+* coloring
+* paper craft
+* clay work
+* cutting/pasting
+
+---
+
+# ১১. Social Skill Book
+
+## Topics
+
+* teamwork
+* sharing
+* waiting turn
+* empathy
+* guest manners
+
+---
+
+# ১২. Physical Development Guide
+
+## Activities
+
+* running
+* balancing
+* jumping
+* throwing/catching
+* stretching
+
+---
+
+# ১৩. Nature & Environment Book
+
+## Topics
+
+* trees
+* birds
+* seasons
+* sky
+* river
+* caring for nature
+
+---
+
+# ১৪. Parent Teaching System
+
+## Include
+
+* weekly planning
+* teaching psychology
+* emotional support
+* discipline method
+* reward system
+
+---
+
+# Subject Priority (Age 4)
+
+| Subject         | Priority  |
+| --------------- | --------- |
+| Speaking        | VERY HIGH |
+| Reading         | VERY HIGH |
+| Islamic Manners | VERY HIGH |
+| Play            | VERY HIGH |
+| Math Logic      | HIGH      |
+| Writing         | MEDIUM    |
+
+---
+
+# Daily Routine (Age 4)
+
+| Time         | Activity                 |
+| ------------ | ------------------------ |
+| Fajr/Morning | Dua + Quran listening    |
+| Morning      | Bangla/English           |
+| Noon         | Play                     |
+| Afternoon    | Math + Activity          |
+| Evening      | Story + Islamic learning |
+| Night        | Family talk              |
+
+---
+
+# Weekly Structure
+
+| Day | Focus              |
+| --- | ------------------ |
+| Sat | Bangla             |
+| Sun | English            |
+| Mon | Math               |
+| Tue | Islamic            |
+| Wed | Science            |
+| Thu | Art + Logic        |
+| Fri | Revision + Outdoor |
+
+---
+
+# Study Duration
+
+| Age   | Total Study |
+| ----- | ----------- |
+| ৪ বছর | ১.৫–২ ঘণ্টা |
+
+(ভাগ করে)
+
+---
+
+# Teaching Method
+
+| Method            | Importance |
+| ----------------- | ---------- |
+| Story Learning    | VERY HIGH  |
+| Visual Learning   | VERY HIGH  |
+| Activity Learning | VERY HIGH  |
+| Conversation      | VERY HIGH  |
+
+---
+
+# Avoid
+
+❌ Pressure
+❌ Long study session
+❌ Too much screen time
+❌ Fear-based learning
+
+---
+
+# Focus On
+
+✅ Curiosity
+✅ Communication
+✅ Confidence
+✅ Character
+✅ Happiness
+
+---
+
+# Optional Advanced Additions
+
+এই বয়সে add করতে পারেন:
+
+* Montessori practical life
+* Arabic writing intro
+* memory palace games
+* phonics fluency
+* beginner coding logic
+* emotional intelligence training
+* public speaking practice
+
+---
+
+# End Goal of Age 4
+
+শিশু যেন:
+
+* confidently কথা বলতে পারে
+* basic reading পারে
+* polite behavior জানে
+* curiosity retain করে
+* learning ভালোবাসে
+
+এটাই সবচেয়ে গুরুত্বপূর্ণ।
