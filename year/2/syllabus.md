@@ -1,348 +1,60 @@
-# ২ বছর বয়সের Complete Book List
-
-## Foundation Level 1 (Age 2)
-
-এই বয়সে মূল লক্ষ্য:
-
-* Brain Development
-* Language Development
-* Habit Building
-* Curiosity
-* Listening & Speaking
-* Fine Motor Skill
-
-⚠️ Rule:
-
-* কোনো চাপ না
-* ১০–১৫ মিনিটের ছোট session
-* বেশি Activity
-* বেশি Story
-* বেশি Interaction
+# Age 2 — Foundation Level 1
+## মাস্টার কারিকুলাম ও শিখন ব্লুপ্রিন্ট (Master Curriculum Blueprint)
 
 ---
 
-# Complete Subject List
-
-| No | Book Name                     | Purpose              |
-| -- | ----------------------------- | -------------------- |
-| 1  | My First Bangla Book          | বাংলা পরিচয়          |
-| 2  | My First English Book         | A-Z + words          |
-| 3  | My First Math Book            | counting             |
-| 4  | Color & Shape Book            | color + shape        |
-| 5  | Islamic Manners Book          | আদব                  |
-| 6  | My Dua Book                   | ছোট দোয়া             |
-| 7  | Animal & Nature Book          | environment learning |
-| 8  | Speaking Practice Book        | কথা বলা              |
-| 9  | Tracing & Pencil Control Book | hand control         |
-| 10 | Activity Book                 | brain development    |
-| 11 | Story Picture Book            | imagination          |
-| 12 | Physical Activity Guide       | body movement        |
-| 13 | Sensory Learning Book         | touch/feel learning  |
-| 14 | Parent Teaching Guide         | কিভাবে শেখাবেন       |
+## ১. মূল দর্শন ও শিক্ষার রূপরেখা
+* **বয়স:** ২ বছর (Foundation Level 1)
+* **মূল উদ্দেশ্য:** শিশুর মস্তিষ্ক বিকাশ (Brain Development), ভাষার ভিত্তি (Language Skills), উত্তম চরিত্র (Islamic Adab), কৌতূহল ও শারীরিক অঙ্গ সঞ্চালন (Fine & Gross Motor Skills)।
+* **শিখনের নীতি:** 
+  1. কোনো মানসিক বা শারীরিক চাপ নেই (Zero Pressure & Play-Based).
+  2. প্রতিটি সেশন হবে ১০–১৫ মিনিটের ছোট ও আনন্দময়।
+  3. বাস্তব উপকরণ (বালি, মাটি, পানি, রং, ফ্ল্যাশকার্ড, ফলমূল) দিয়ে হাতে-কলমে শিখন।
+  4. ঘরে বসেই ভালোবাসা ও অনুকূল পারিবারিক পরিবেশে ধাপে ধাপে বেড়ে ওঠা।
 
 ---
 
-# ১. My First Bangla Book
+## ২. বিষয়ভিত্তিক বই ও মডিউল তালিকা (Complete Book List)
 
-## Topics
-
-* অ আ ই ঈ
-* ছবি দেখে শব্দ
-* ফলের নাম
-* প্রাণীর নাম
-* family words
-
-## Example
-
-* অ — আম
-* ক — কলা
-
-## Activities
-
-* picture matching
-* sound listening
-* repeat speaking
+| নং | বই / মডিউল নাম | ফাইলের নাম | মূল শিখন উদ্দেশ্য |
+| :--- | :--- | :--- | :--- |
+| ১ | বাংলা বর্ণ ও শব্দ পরিচয় | `Bangla Foundation Book.md` | স্বরবর্ণ ও ব্যঞ্জনবর্ণের ধ্বনি, ছবি দেখে ৫০+ শব্দ ও মিষ্টি ছড়া |
+| ২ | ইংরেজি ফনিক্স ও শব্দ | `English Foundation Book.md` | A to Z সাউন্ড, ১০০+ শব্দভাণ্ডার ও রাইমস |
+| ৩ | আরবি হরফ ও কুরআন দু'আ | `Arabic & Quran Education.md` | ২৯ হরফ মাখরাজসহ, ৪ কুল সূরা ও নিত্যদিনের মাসনূন দু'আ |
+| ৪ | গণিত, আকৃতি ও রং | `Mathematics & Shapes Book.md` | ১–১০ গণনা, বৃত্ত/বর্গ/ত্রিভুজ, সাইজ তুলনা ও কালার সর্টিং |
+| ৫ | ইসলামী আদব ও A-to-Z চরিত্র | `Islamic Studies & A-to-Z Adab.md` | সালাম, বিসমিল্লাহ, রাসুলুল্লাহ (সা.)-এর চরিত্র ও A-to-Z Manners |
+| ৬ | সেন্সরি বিজ্ঞান ও প্রকৃতি | `Science & Sensory Discovery.md` | পঞ্চেন্দ্রিয়, পানি-কাদা-বরফ পরীক্ষা, পশুপাখি ও পরিবেশ |
+| ৭ | আনপ্লাগড কোডিং ও শারীরিক খেলা | `Physical Play & Logic.md` | ভারসাম্য রক্ষা, বল খেলা, প্যাটার্ন লজিক ও মোটর স্কিলস |
+| ৮ | প্যারেন্ট টিচিং গাইড ও রুটিন | `Parent Teaching Guide & Routine.md` | বয়সোপযোগী দৈনিক রুটিন, মনস্তাত্ত্বিক নিয়ম ও টিপস |
+| ৯ | বার্ষিক মূল্যায়ন ও রিপোর্ট কার্ড | `Annual Evaluation & Report Card.md` | চাপহীন পর্যবেক্ষণভিত্তিক মৌখিক পরীক্ষা ও সার্টিফিকেট |
 
 ---
 
-# ২. My First English Book
+## ৩. সাপ্তাহিক বিষয় বণ্টন ও দৈনিক সময়সূচি
 
-## Topics
+### সাপ্তাহিক রুটিন (Weekly Subject Flow)
+* **শনিবার:** বাংলা বর্ণ ও শব্দ পরিচয় + সেন্সরি প্লে
+* **রবিবার:** ইংরেজি ফনিক্স ও A-Z রাইমস + আর্ট/ড্রয়িং
+* **সোমবার:** গণিত, সংখ্যা গণনা ও শেপস অ্যাক্টিভিটি
+* **মঙ্গলবার:** আরবি হরফ, কুরআন তিলাওয়াত ও দো'আ
+* **বুধবার:** প্রকৃতি অন্বেষণ, বিজ্ঞান ও পানির খেলা
+* **বৃহস্পতিবার:** ইসলামী আদব, নবীজির চরিত্র ও গল্প শোনা
+* **শুক্রবার:** সাপ্তাহিক রিভিশন, পারিবারিক ভ্রমণ ও খেলাধুলা
 
-* A-Z
-* basic words
-* object recognition
-
-## Example
-
-* A for Apple
-* B for Ball
-
-## Include
-
-* phonics sound
-* image-based learning
-
----
-
-# ৩. My First Math Book
-
-## Topics
-
-* ১–১০
-* counting
-* size comparison
-* matching
-
-## Example
-
-* count apples
-* big vs small
+### দৈনিক শিখন সময়সীমা (Daily Study Duration)
+* **সকাল (ফজর পর):** ১০ মিনিট (কুরআন তিলাওয়াত শোনা ও মিষ্টি সুরে দো'আ)
+* **সকাল ৯:০০ – ৯:১৫:** ১৫ মিনিট (ভাষা শিক্ষা: বাংলা/ইংরেজি)
+* **বিকাল ৪:৩০ – ৪:৪৫:** ১৫ মিনিট (গণিত / বিজ্ঞান / শেপস)
+* **সন্ধ্যা ৬:৪৫ – ৭:০০:** ১৫ মিনিট (ইসলামী গল্প ও আদব)
+* **মোট দৈনিক পড়াশোনা:** ৩০ থেকে ৪৫ মিনিট (ছোট ছোট ভাগে বিভক্ত)।
 
 ---
 
-# ৪. Color & Shape Book
-
-## Colors
-
-* red
-* blue
-* green
-* yellow
-
-## Shapes
-
-* circle
-* square
-* triangle
-
-## Activities
-
-* color matching
-* shape hunt
-
----
-
-# ৫. Islamic Manners Book
-
-## Topics
-
-* সালাম দেওয়া
-* বিসমিল্লাহ বলা
-* ডান হাতে খাওয়া
-* elders respect
-* sharing
-
-## Story-Based Teaching
-
-ছোট ছোট Islamic story।
-
----
-
-# ৬. My Dua Book
-
-## Dua List
-
-* খাবারের আগে
-* ঘুমের আগে
-* bathroom dua
-* salam
-
-## Style
-
-* Arabic
-* বাংলা উচ্চারণ
-* Meaning
-* Picture
-
----
-
-# ৭. Animal & Nature Book
-
-## Topics
-
-* animal
-* birds
-* trees
-* sky
-* water
-
-## Goal
-
-Curiosity + observation skill।
-
----
-
-# ৮. Speaking Practice Book
-
-## Focus
-
-Language confidence।
-
-## Practice
-
-* এটা কী?
-* তোমার নাম কী?
-* এটা কোন color?
-* কোথায় যাচ্ছ?
-
----
-
-# ৯. Tracing & Pencil Control Book
-
-## Activities
-
-* line tracing
-* curve tracing
-* dot joining
-
-## Goal
-
-Hand control develop করা।
-
----
-
-# ১০. Activity Book
-
-## Include
-
-* matching
-* puzzle
-* sticker activity
-* memory game
-
----
-
-# ১১. Story Picture Book
-
-## Story Type
-
-* Islamic
-* moral
-* animal stories
-
-## Goal
-
-* imagination
-* listening
-* behavior learning
-
----
-
-# ১২. Physical Activity Guide
-
-## Include
-
-* jump
-* run
-* ball play
-* balance
-
-⚠️ এই বয়সে Physical Development খুব important।
-
----
-
-# ১৩. Sensory Learning Book
-
-## Activities
-
-* soft/hard
-* hot/cold
-* smell
-* texture
-
----
-
-# ১৪. Parent Teaching Guide
-
-সবচেয়ে important book।
-
-## থাকবে
-
-* কিভাবে শেখাবেন
-* কতক্ষণ পড়াবেন
-* কিভাবে motivate করবেন
-* screen time rule
-* discipline system
-
----
-
-# Daily Routine (Age 2)
-
-| Time        | Activity               |
-| ----------- | ---------------------- |
-| Morning     | Quran sound + speaking |
-| Mid Morning | Bangla/English         |
-| Afternoon   | Play                   |
-| Evening     | Story                  |
-| Night       | Dua + family talk      |
-
----
-
-# Weekly Study Time
-
-| Age   | Daily Study       |
-| ----- | ----------------- |
-| ২ বছর | ৩০–৬০ মিনিট total |
-
-(ভাগ করে)
-
----
-
-# Recommended Teaching Method
-
-| Method          | Importance |
-| --------------- | ---------- |
-| Play-Based      | VERY HIGH  |
-| Story-Based     | VERY HIGH  |
-| Visual Learning | VERY HIGH  |
-| Repetition      | HIGH       |
-| Pressure        | ZERO       |
-
----
-
-# IMPORTANT RULES
-
-## NEVER
-
-* জোর করা
-* মারধর
-* লম্বা study session
-* compare করা
-
-## ALWAYS
-
-* encourage
-* appreciate
-* smile
-* interactive learning
-
----
-
-# Optional Advanced Additions
-
-আপনি চাইলে ২ বছর বয়স থেকেই:
-
-* phonics system
-* multilingual exposure
-* memory training
-* brain gym
-* Montessori method
-* Islamic habit tracker
-
-add করতে পারেন।
-
----
-
-আপনি চাইলে এখন আমি:
-
-* ২ বছর বয়সের Full Yearly Syllabus
-* Monthly Planner
-* Weekly Planner
-* Daily Lesson Plan
-* Book Chapter Structure
-* Montessori-style Activities
-* Printable Worksheets
-* Islamic Character Curriculum
-
-একদম professional format এ তৈরি করে দিতে পারি।
+## ৪. বার্ষিক শিখন লক্ষ্যমাত্রা (Year-End Milestones)
+বছর শেষে ২ বছরের শিশু যা যা সহজে ও আনন্দের সাথে অর্জন করবে:
+1. বাংলা স্বরবর্ণ ও ব্যঞ্জনবর্ণের ছবি দেখে নাম ও শব্দ বলতে পারবে।
+2. ইংরেজির A–Z ফনিক্স সাউন্ড চিনবে এবং পরিচিত বস্তু চিহ্নিত করবে।
+3. আরবি হরফ দেখে উচ্চারণ করতে পারবে এবং সূরা ফাতিহা, ইখলাস শুনে শুনে পড়বে।
+4. ১ থেকে ১০ পর্যন্ত আঙুল দিয়ে গুনে বস্তু আলাদা করতে পারবে।
+5. হাসিমুখে সালাম দেওয়া, খাওয়ার আগে বিসমিল্লাহ ও পরে আলহামদুলিল্লাহ বলবে।
+6. নিজের খেলনা ঝুড়িতে গুছিয়ে রাখা ও মা-বাবার সহজ নির্দেশনা বুঝতে পারবে।

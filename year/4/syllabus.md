@@ -1,391 +1,58 @@
 # Age 4 — Beginner Level
-
-## Complete Education Framework (Foundation to Early Academic Stage)
-
-এই বয়সে শিশুর:
-
-* শেখার গতি অনেক বেড়ে যায়
-* প্রশ্ন করার প্রবণতা বাড়ে
-* imagination শক্তিশালী হয়
-* basic reading শুরু হয়
-* logic develop হতে থাকে
-
-তাই এই Stage এ:
-
-* Fun + Structured Learning
-* Early Reading
-* Early Writing
-* Communication
-* Islamic Character
-* Thinking Skill
-
-—এগুলোতে focus করতে হবে।
+## মাস্টার কারিকুলাম ও শিখন ব্লুপ্রিন্ট (Master Curriculum Blueprint)
 
 ---
 
-# Beginner Level Goals (Age 4)
-
-এই Level শেষে শিশু:
-
-* বাংলা ও English basic reading পারবে
-* ছোট sentence বুঝবে
-* ১–৫০ counting পারবে
-* basic addition বুঝবে
-* ছোট সূরা পড়বে
-* social behavior improve হবে
-* confidence develop হবে
+## ১. মূল দর্শন ও শিক্ষার রূপরেখা
+* **বয়স:** ৪ বছর (Beginner Level)
+* **মূল উদ্দেশ্য:** রিডিং পঠন দক্ষতা (Early Independent Reading), সুন্দর হস্তলিপি (Handwriting), যোগ-বিয়োগের গাণিতিক ধারণা (Early Math Addition & Subtraction), সহিহ কুরআন ও সালাত শিখন, নৈতিক ব্যক্তিত্ব গঠন ও আনপ্লাগড কোডিং যুক্তি।
+* **শিখনের নীতি:**
+  1. আনন্দ ও কাঠামোর চমৎকার মেলবন্ধন (Fun + Structured Learning).
+  2. কোনো ভীতিকর বা মুখস্থের চাপ নেই (Zero Stress).
+  3. প্রতিদিন ২৫–৩০ মিনিটের ৩–৪টি সেশনে শিখন।
+  4. বাস্তব উদাহরণ ও বিজ্ঞান পরীক্ষার মাধ্যমে শিখন।
 
 ---
 
-# Complete Book List (Age 4)
+## ২. বিষয়ভিত্তিক বই ও মডিউল তালিকা (Complete Book List)
 
-| No | Book Name                      | Purpose             |
-| -- | ------------------------------ | ------------------- |
-| 1  | Bangla Reading Book 1          | বাংলা পড়া           |
-| 2  | English Reading & Phonics Book | English reading     |
-| 3  | Beginner Math Book             | math foundation     |
-| 4  | Writing & Handwriting Book     | writing skill       |
-| 5  | Islamic Learning Book          | Islamic manners     |
-| 6  | Quran & Surah Book             | Quran learning      |
-| 7  | Speaking & Communication Book  | speaking confidence |
-| 8  | Science Explorer Book          | curiosity           |
-| 9  | Logic & Brain Book             | IQ development      |
-| 10 | Creative Art & Craft Book      | creativity          |
-| 11 | Social Skill Book              | behavior            |
-| 12 | Physical Development Guide     | body skill          |
-| 13 | Nature & Environment Book      | observation         |
-| 14 | Parent Teaching System         | teaching guide      |
+| নং | বই / মডিউল নাম | ফাইলের নাম | মূল শিখন উদ্দেশ্য |
+| :--- | :--- | :--- | :--- |
+| ১ | বাংলা ফাউন্ডেশন বই | `Bangla Foundation Book.md` | কারচিহ্ন (া ি ী ইত্যাদি), শব্দ গঠন, বাক্য পঠন ও হস্তলিপি |
+| ২ | ইংরেজি ফাউন্ডেশন ও ফনিক্স | `English Foundation Book.md` | Phonics Mastery, Sight Words, Sentence Reading & 4-Line Writing |
+| ৩ | আরবি হরফ ও কুরআন শিক্ষা | `Arabic & Quran Education.md` | মুরাক্কাব হরফ, হরকত, তানভীন, জযম, ৮টি সূরা হিফয ও সালাতের প্র্যাকটিস |
+| ৪ | প্রাথমিক গণিত ও লজিক | `Mathematics & Logic Book.md` | ১–৫০ সংখ্যা, ১ অঙ্কের যোগ-বিয়োগ, স্থানিক ধারণা ও আনপ্লাগড কোডিং |
+| ৫ | ইসলামী শিক্ষা ও A-to-Z চরিত্র | `Islamic Studies & A-to-Z Character.md` | নবীজির শৈশব, সততা, আমানতদারি, পিতা-মাতার হক ও A-to-Z Manners |
+| ৬ | বিজ্ঞান ও লজিক অন্বেষণ | `Science & Logic Explorer.md` | জীব ও জড়, পানির রূপ, দিন-রাত, অ্যালগরিদম ও ব্রেন পাজল |
+| ৭ | প্যারেন্ট টিচিং গাইড ও রুটিন | `Parent Teaching Guide & Routine.md` | ৪ বছর বয়সের দৈনিক সময়সূচি, পড়ার অভ্যাস ও মোটিভেশন |
+| ৮ | বার্ষিক মূল্যায়ন ও রিপোর্ট কার্ড | `Annual Evaluation & Report Card.md` | বার্ষিক মূল্যায়ন রুব্রিক, প্রশ্নমালা ও প্রগ্রেস সনদপত্র |
 
 ---
 
-# ১. Bangla Reading Book 1
+## ৩. সাপ্তাহিক বিষয় বণ্টন ও দৈনিক সময়সূচি
 
-## Topics
+### সাপ্তাহিক রুটিন (Weekly Subject Flow)
+* **শনিবার:** বাংলা কারচিহ্ন ও বাক্য পঠন
+* **রবিবার:** ইংরেজি ফনিক্স, সাইট ওয়ার্ডস ও রিডিং
+* **সোমবার:** গণিত, যোগ-বিয়োগ ও সংখ্যা রেখা
+* **মঙ্গলবার:** আরবি কায়দা, তাজবিদ ও সূরা হিফয
+* **বুধবার:** বিজ্ঞান পরীক্ষা ও লজিক পাজল
+* **বৃহস্পতিবার:** ইসলামী চরিত্র, সীরাত ও আদব
+* **শুক্রবার:** সাপ্তাহিক রিভিশন, পারিবারিক শিক্ষা ও মুক্ত খেলা
 
-* সব বর্ণ revision
-* ২–৩ অক্ষরের শব্দ
-* ছোট বাক্য
-* picture reading
-
-## Example
-
-* আমি যাই।
-* মা আসে।
-* এটা আম।
-
-## Activities
-
-* reading aloud
-* picture storytelling
-* word matching
+### দৈনিক শিখন সময়সীমা (Daily Study Duration)
+* **সকাল (ফজর পর):** ২০ মিনিট (কুরআন তিলাওয়াত, মাখরাজ ও সূরা হিফয)
+* **সকাল ৯:০০ – ৯:৩০:** ৩০ মিনিট (ভাষা শিক্ষা: বাংলা / ইংরেজি)
+* **বিকাল ৪:৩০ – ৫:০০:** ৩০ মিনিট (গণিত / বিজ্ঞান / কোডিং লজিক)
+* **সন্ধ্যা ৬:৩০ – ৭:০০:** ২০ মিনিট (সীরাত, ইসলামিক গল্প ও নৈতিকতা)
+* **মোট দৈনিক পড়াশোনা:** ১.৫ থেকে ২ ঘণ্টা (ভাগ করে)।
 
 ---
 
-# ২. English Reading & Phonics Book
-
-## Topics
-
-* phonics mastery
-* CVC words
-* basic sentence
-
-## Example
-
-* cat
-* bat
-* sun
-* I am happy.
-* This is a ball.
-
-## Include
-
-* listening practice
-* pronunciation guide
-
----
-
-# ৩. Beginner Math Book
-
-## Topics
-
-* ১–৫০
-* counting
-* addition concept
-* subtraction intro
-* pattern
-* shapes
-
-## Example
-
-🍎🍎 + 🍎 = 3 apples
-
----
-
-# ৪. Writing & Handwriting Book
-
-## Include
-
-* Bangla tracing
-* English tracing
-* word writing
-* shape writing
-
-## Goal
-
-Clean handwriting + hand control।
-
----
-
-# ৫. Islamic Learning Book
-
-## Topics
-
-* Islamic manners
-* parents respect
-* honesty
-* kindness
-* sharing
-* cleanliness
-
-## Include
-
-* Prophet Muhammad ﷺ character stories
-
----
-
-# ৬. Quran & Surah Book
-
-## Learning
-
-* Arabic letters revision
-* short surah
-* simple tajweed intro
-
-## Surah
-
-* Fatiha
-* Ikhlas
-* Falak
-* Nas
-* Kawthar
-
-## Include
-
-* meaning
-* daily application
-
----
-
-# ৭. Speaking & Communication Book
-
-## Practice
-
-* introducing self
-* daily conversation
-* asking questions
-* polite speaking
-
-## Example
-
-* My name is...
-* I like apples.
-* May I help you?
-
----
-
-# ৮. Science Explorer Book
-
-## Topics
-
-* plants
-* animals
-* weather
-* day/night
-* water
-* human body intro
-
-## Activities
-
-* observation
-* mini experiments
-
----
-
-# ৯. Logic & Brain Book
-
-## Include
-
-* puzzles
-* sequencing
-* matching
-* memory challenge
-* problem solving
-
----
-
-# ১০. Creative Art & Craft Book
-
-## Activities
-
-* drawing
-* coloring
-* paper craft
-* clay work
-* cutting/pasting
-
----
-
-# ১১. Social Skill Book
-
-## Topics
-
-* teamwork
-* sharing
-* waiting turn
-* empathy
-* guest manners
-
----
-
-# ১২. Physical Development Guide
-
-## Activities
-
-* running
-* balancing
-* jumping
-* throwing/catching
-* stretching
-
----
-
-# ১৩. Nature & Environment Book
-
-## Topics
-
-* trees
-* birds
-* seasons
-* sky
-* river
-* caring for nature
-
----
-
-# ১৪. Parent Teaching System
-
-## Include
-
-* weekly planning
-* teaching psychology
-* emotional support
-* discipline method
-* reward system
-
----
-
-# Subject Priority (Age 4)
-
-| Subject         | Priority  |
-| --------------- | --------- |
-| Speaking        | VERY HIGH |
-| Reading         | VERY HIGH |
-| Islamic Manners | VERY HIGH |
-| Play            | VERY HIGH |
-| Math Logic      | HIGH      |
-| Writing         | MEDIUM    |
-
----
-
-# Daily Routine (Age 4)
-
-| Time         | Activity                 |
-| ------------ | ------------------------ |
-| Fajr/Morning | Dua + Quran listening    |
-| Morning      | Bangla/English           |
-| Noon         | Play                     |
-| Afternoon    | Math + Activity          |
-| Evening      | Story + Islamic learning |
-| Night        | Family talk              |
-
----
-
-# Weekly Structure
-
-| Day | Focus              |
-| --- | ------------------ |
-| Sat | Bangla             |
-| Sun | English            |
-| Mon | Math               |
-| Tue | Islamic            |
-| Wed | Science            |
-| Thu | Art + Logic        |
-| Fri | Revision + Outdoor |
-
----
-
-# Study Duration
-
-| Age   | Total Study |
-| ----- | ----------- |
-| ৪ বছর | ১.৫–২ ঘণ্টা |
-
-(ভাগ করে)
-
----
-
-# Teaching Method
-
-| Method            | Importance |
-| ----------------- | ---------- |
-| Story Learning    | VERY HIGH  |
-| Visual Learning   | VERY HIGH  |
-| Activity Learning | VERY HIGH  |
-| Conversation      | VERY HIGH  |
-
----
-
-# Avoid
-
-❌ Pressure
-❌ Long study session
-❌ Too much screen time
-❌ Fear-based learning
-
----
-
-# Focus On
-
-✅ Curiosity
-✅ Communication
-✅ Confidence
-✅ Character
-✅ Happiness
-
----
-
-# Optional Advanced Additions
-
-এই বয়সে add করতে পারেন:
-
-* Montessori practical life
-* Arabic writing intro
-* memory palace games
-* phonics fluency
-* beginner coding logic
-* emotional intelligence training
-* public speaking practice
-
----
-
-# End Goal of Age 4
-
-শিশু যেন:
-
-* confidently কথা বলতে পারে
-* basic reading পারে
-* polite behavior জানে
-* curiosity retain করে
-* learning ভালোবাসে
-
-এটাই সবচেয়ে গুরুত্বপূর্ণ।
+## ৪. বার্ষিক শিখন লক্ষ্যমাত্রা (Year-End Milestones)
+বছর শেষে ৪ বছরের শিশু যা যা চমৎকারভাবে অর্জন করবে:
+1. বাংলা কারচিহ্নযুক্ত শব্দ ও ছোট ছোট বাক্য নিজে নিজে পড়তে ও লিখতে পারবে।
+2. ইংরেজির সাইট ওয়ার্ডস চিনে ৩–৪ শব্দের ইংরেজি বাক্য অনর্গল পড়তে ও খাতায় লিখতে পারবে।
+3. হরকত, তানভীন ও জযমযুক্ত আরবি শব্দ বানান করতে পারবে এবং ৮টি ছোট সূরা অর্থসহ তিলাওয়াত করবে।
+4. ১ থেকে ৫০ সংখ্যা গণনা ও ১ অঙ্কের যোগ-বিয়োগ আত্মবিশ্বাসের সাথে সমাধান করবে।
+5. নামাজের শারীরিক নিয়ম ও অজু করতে পারবে এবং দৈনন্দিন জীবনে সত্যবাদী ও বিনম্র আচরণ বজায় রাখবে।

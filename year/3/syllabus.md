@@ -1,390 +1,58 @@
 # Age 3 — Foundation Level 2
-
-## Complete Book List + Syllabus Framework
-
-এই বয়সে শিশুর:
-
-* ভাষা দ্রুত develop হয়
-* curiosity বাড়ে
-* প্রশ্ন বেশি করে
-* memory improve হয়
-* observation power বাড়ে
-
-তাই এই Level এ:
-
-* Fun Learning
-* Speaking
-* Habit Building
-* Early Reading
-* Brain Development
-
-—এগুলোতে focus করতে হবে।
+## মাস্টার কারিকুলাম ও শিখন ব্লুপ্রিন্ট (Master Curriculum Blueprint)
 
 ---
 
-# Foundation Level 2 Goals
-
-এই Level শেষে শিশু:
-
-* বাংলা ও English basic words চিনবে
-* ১–২০ counting পারবে
-* basic sentence বলতে পারবে
-* ছোট dua/সূরা শিখবে
-* shapes/colors চিনবে
-* simple instruction follow করবে
-* social behavior develop করবে
+## ১. মূল দর্শন ও শিক্ষার রূপরেখা
+* **বয়স:** ৩ বছর (Foundation Level 2)
+* **মূল উদ্দেশ্য:** ভাষার দ্রুত বিকাশ (Language Mastery), কৌতূহল ও প্রশ্ন করার স্পৃহা (Curiosity), প্রাথমিক গাণিতিক যুক্তি (Early Math & Logic), ইসলামী মূল্যবোধ ও সুন্দর চরিত্র (Islamic Character), এবং ফাইন মোটর স্কিলস (Early Tracing & Handwriting Grip)।
+* **শিখনের নীতি:** 
+  1. আনন্দময়, গল্পভিত্তিক ও খেলার মাধ্যমে শিখন (Play-Based & Story-Based).
+  2. কোনো জোরজবরদস্তি বা শাস্তি নয় (Zero Pressure).
+  3. প্রতিদিন ২০–২৫ মিনিটের ৩–৪টি সেশনে শিখন।
+  4. বাস্তব উপকরণ ও ইন্দ্রিয়ভিত্তিক পরীক্ষার মাধ্যমে অনুধাবন।
 
 ---
 
-# Complete Book List (Age 3)
+## ২. বিষয়ভিত্তিক বই ও মডিউল তালিকা (Complete Book List)
 
-| No | Book Name                    | Purpose           |
-| -- | ---------------------------- | ----------------- |
-| 1  | Bangla Beginner Book         | বাংলা reading     |
-| 2  | English Phonics Book         | sound learning    |
-| 3  | Early Math Book              | counting + logic  |
-| 4  | Color & Shape Advanced Book  | recognition       |
-| 5  | Islamic Kids Book            | আদব + ইসলাম       |
-| 6  | My Dua & Surah Book          | dua + short surah |
-| 7  | Speaking & Conversation Book | communication     |
-| 8  | Writing Practice Book        | pencil control    |
-| 9  | Brain Activity Book          | IQ development    |
-| 10 | Story & Moral Book           | imagination       |
-| 11 | Science Discovery Book       | nature curiosity  |
-| 12 | Creative Art Book            | creativity        |
-| 13 | Physical Activity Guide      | motor skill       |
-| 14 | Parent Teaching Manual       | teaching system   |
+| নং | বই / মডিউল নাম | ফাইলের নাম | মূল শিখন উদ্দেশ্য |
+| :--- | :--- | :--- | :--- |
+| ১ | বাংলা ফাউন্ডেশন বই | `Bangla Foundation Book.md` | পূর্ণ স্বরবর্ণ ও ব্যঞ্জনবর্ণ, সহজ ২ অক্ষরের শব্দ, ছবি দেখে বলা ও ডট ট্রেসিং |
+| ২ | ইংরেজি ফাউন্ডেশন ও ফনিক্স | `English Foundation Book.md` | Phonics Sounds, CVC Words (-at, -an, -og), ১০০+ শব্দভাণ্ডার ও কথোপকথন |
+| ৩ | আরবি হরফ ও কুরআন শিক্ষা | `Arabic & Quran Education.md` | ২৯ হরফ মাখরাজসহ, হরকত (যবর, যের, পেশ), ৫টি সূরা হিফয ও জরুরি দু'আ |
+| ৪ | প্রাথমিক গণিত ও লজিক | `Mathematics & Logic Book.md` | ১–২০ গণনা, বস্তু দিয়ে যোগের সূচনা, জ্যামিতিক আকার ও প্যাটার্ন |
+| ৫ | ইসলামী আদব ও A-to-Z চরিত্র | `Islamic Studies & A-to-Z Adab.md` | নবীজির শৈশব, সত্যবাদিতা, সালাম, মা-বাবার আদব ও A-to-Z Manners |
+| ৬ | বিজ্ঞান ও প্রকৃতি অন্বেষণ | `Science & Nature Explorer.md` | পঞ্চেন্দ্রিয়, বীজ অঙ্কুরোদগম, প্রাণিজগৎ, পানি ও বাতাসের পরীক্ষা |
+| ৭ | প্যারেন্ট টিচিং গাইড ও রুটিন | `Parent Teaching Guide & Routine.md` | ৩ বছর বয়সের দৈনিক সময়সূচি, মন্টেশ্বরী মেথড ও পজিটিভ পেরেন্টিং |
+| ৮ | বার্ষিক মূল্যায়ন ও রিপোর্ট কার্ড | `Annual Evaluation & Report Card.md` | চাপহীন পর্যবেক্ষণভিত্তিক মূল্যায়ন চেকলিস্ট ও বার্ষিক সনদপত্র |
 
 ---
 
-# ১. Bangla Beginner Book
+## ৩. সাপ্তাহিক বিষয় বণ্টন ও দৈনিক সময়সূচি
 
-## Topics
+### সাপ্তাহিক রুটিন (Weekly Subject Distribution)
+* **শনিবার:** বাংলা ভাষা ও ডট ট্রেসিং
+* **রবিবার:** ইংরেজি ফনিক্স ও CVC শব্দ
+* **সোমবার:** গণিত, সংখ্যা গণনা ও পাজল
+* **মঙ্গলবার:** আরবি হরফ ও কুরআন হিফয
+* **বুধবার:** বিজ্ঞান ও প্রকৃতি অন্বেষণ পরীক্ষা
+* **বৃহস্পতিবার:** ইসলামী আদব ও চরিত্র গঠন
+* **শুক্রবার:** সাপ্তাহিক রিভিশন, ছুটির দিনের আনন্দ ও পারিবারিক গল্প
 
-* স্বরবর্ণ
-* ব্যঞ্জনবর্ণ
-* সহজ শব্দ
-* picture reading
-
-## Example
-
-* মা
-* বাবা
-* কলা
-* আম
-
-## Activities
-
-* picture matching
-* sound repeat
-* word tracing
+### দৈনিক শিখন সময়সীমা (Daily Study Duration)
+* **সকাল (ফজর পর):** ১৫ মিনিট (কুরআন তিলাওয়াত শোনা ও সূরা হিফয)
+* **সকাল ৯:০০ – ৯:২৫:** ২৫ মিনিট (ভাষা শিক্ষা: বাংলা / ইংরেজি)
+* **বিকাল ৪:৩০ – ৫:০০:** ২৫ মিনিট (গণিত / বিজ্ঞান / লজিক)
+* **সন্ধ্যা ৬:৩০ – ৭:০০:** ২০ মিনিট (ইসলামী গল্প ও আদব)
+* **মোট দৈনিক পড়াশোনা:** ১ থেকে ১.৫ ঘণ্টা (ভাগ করে)।
 
 ---
 
-# ২. English Phonics Book
-
-## Topics
-
-* phonics sound
-* simple words
-* alphabet recognition
-
-## Example
-
-* cat
-* bat
-* sun
-* dog
-
-## Speaking Practice
-
-* What is this?
-* This is a cat.
-
----
-
-# ৩. Early Math Book
-
-## Topics
-
-* ১–২০
-* counting objects
-* matching
-* bigger/smaller
-* simple patterns
-
-## Advanced Intro
-
-* simple addition concept
-
-Example:
-🍎 + 🍎 = 2 apples
-
----
-
-# ৪. Color & Shape Advanced Book
-
-## Colors
-
-* red
-* green
-* blue
-* black
-* white
-
-## Shapes
-
-* star
-* oval
-* rectangle
-* heart
-
-## Activities
-
-* shape hunt
-* color sorting
-
----
-
-# ৫. Islamic Kids Book
-
-## Topics
-
-* সালাম
-* বিসমিল্লাহ
-* আল্লাহ আমাদের সৃষ্টি করেছেন
-* মিথ্যা না বলা
-* parents respect
-* sharing
-
-## Include
-
-* Islamic stories
-* Prophet ﷺ manners
-
----
-
-# ৬. My Dua & Surah Book
-
-## Dua
-
-* eating dua
-* sleeping dua
-* entering home dua
-
-## Surah
-
-* সূরা ফাতিহা
-* ইখলাস
-* ফালাক
-* নাস
-
-## Structure
-
-* Arabic
-* pronunciation
-* meaning
-* illustration
-
----
-
-# ৭. Speaking & Conversation Book
-
-## Goal
-
-Confidence building।
-
-## Practice
-
-* তোমার নাম কী?
-* তুমি কী খেতে পছন্দ করো?
-* What color is this?
-* How are you?
-
----
-
-# ৮. Writing Practice Book
-
-## Activities
-
-* line tracing
-* alphabet tracing
-* shape tracing
-* curve practice
-
-## Goal
-
-Fine motor skill।
-
----
-
-# ৯. Brain Activity Book
-
-## Include
-
-* puzzle
-* matching
-* shadow game
-* memory game
-* find differences
-
----
-
-# ১০. Story & Moral Book
-
-## Story Types
-
-* Islamic
-* animal stories
-* honesty stories
-* kindness stories
-
-## Goal
-
-* listening skill
-* imagination
-* behavior development
-
----
-
-# ১১. Science Discovery Book
-
-## Topics
-
-* plants
-* rain
-* sun
-* moon
-* birds
-* water
-
-## Method
-
-Observation-based learning।
-
----
-
-# ১২. Creative Art Book
-
-## Include
-
-* coloring
-* paper craft
-* finger painting
-* clay modeling
-
----
-
-# ১৩. Physical Activity Guide
-
-## Activities
-
-* jumping
-* running
-* balance walk
-* catching ball
-
----
-
-# ১৪. Parent Teaching Manual
-
-## থাকবে
-
-* daily routine
-* teaching method
-* screen rule
-* discipline guide
-* emotional support
-
----
-
-# Daily Routine (Age 3)
-
-| Time          | Activity          |
-| ------------- | ----------------- |
-| Morning       | Quran + Dua       |
-| Morning Study | Bangla/English    |
-| Noon          | Play              |
-| Afternoon     | Math + Activity   |
-| Evening       | Story             |
-| Night         | Family talk + Dua |
-
----
-
-# Weekly Structure
-
-| Day | Subject           |
-| --- | ----------------- |
-| Sat | Bangla            |
-| Sun | English           |
-| Mon | Math              |
-| Tue | Islamic           |
-| Wed | Science           |
-| Thu | Activity          |
-| Fri | Revision + Family |
-
----
-
-# Study Duration
-
-| Age   | Total Study |
-| ----- | ----------- |
-| ৩ বছর | ১–১.৫ ঘণ্টা |
-
-(ভাগ করে)
-
----
-
-# Teaching Style
-
-| Method            | Importance |
-| ----------------- | ---------- |
-| Play-Based        | VERY HIGH  |
-| Story Learning    | VERY HIGH  |
-| Visual Learning   | VERY HIGH  |
-| Hands-on Activity | VERY HIGH  |
-
----
-
-# Important Rules
-
-## Avoid
-
-* pressure
-* punishment
-* comparison
-* long sitting
-
-## Focus
-
-* curiosity
-* confidence
-* happiness
-* communication
-
----
-
-# Optional Advanced Additions
-
-আপনি চাইলে এই বয়স থেকেই add করতে পারেন:
-
-* Montessori method
-* Arabic letters
-* memory training
-* phonics mastery
-* nature journaling
-* beginner coding logic games
-* emotional intelligence activities
-
----
-
-আপনি চাইলে এখন আমি:
-
-* ৪ বছর বয়সের Beginner Level
-* Full yearly syllabus
-* Chapter-wise book structure
-* Printable worksheet system
-* Montessori activity system
-* Islamic tarbiyah roadmap
-
-একদম complete professional framework আকারে তৈরি করে দিতে পারি।
+## ৪. বার্ষিক শিখন লক্ষ্যমাত্রা (Year-End Milestones)
+বছর শেষে ৩ বছরের শিশু যা যা স্বতঃস্ফূর্তভাবে অর্জন করবে:
+1. বাংলা ও ইংরেজি সকল বর্ণ স্পষ্ট চিনবে এবং ২ অক্ষরের সহজ শব্দ পড়তে পারবে।
+2. ইংরেজির ফনিক্স সাউন্ড শুনে CVC শব্দ (Cat, Dog, Sun) বলতে ও মেলাতে পারবে।
+3. আরবি ২৯টি হরফ চিনবে এবং সূরা ফাতিহা, ইখলাস, ফালাক্ব, নাস ও কাওসার মুখস্থ তিলাওয়াত করবে।
+4. ১ থেকে ২০ পর্যন্ত বস্তু গুনে বলতে পারবে এবং ২টি বস্তুর সাথে ১টি মিলিয়ে মোট ৩টি যোগের ধারণা বুঝবে।
+5. সুন্দরভাবে সালাম দেওয়া, মা-বাবার কথা মান্য করা ও জিনিস ভাগাভাগি করার সুন্দর অভ্যাসে বড় হবে।
